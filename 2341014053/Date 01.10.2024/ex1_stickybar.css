@@ -1,5 +1,8 @@
 body{
     background-color: blanchedalmond;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 .header{
     text-align: center;
@@ -15,9 +18,10 @@ body{
     position: sticky;
     top: 10px;
     font-size: 18px;
+    margin-top: 1%;
 }
 .content{
-   margin-left: 240px;
+   margin-left: 250px;
    padding: 20px;
    color: brown;
    background-color: burlywood;
